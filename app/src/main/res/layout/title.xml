@@ -22,7 +22,7 @@
         android:layout_gravity="center"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="Title Text"
+        android:text="聊天"
         android:textColor="#fff"
         android:textSize="24sp"/>
 
